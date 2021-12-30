@@ -1,0 +1,36 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/new1/new1",
+    "pages/new2/new2",
+    "pages/new3/new3",
+    "pages/new4/new4"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#2f2f8f",
+    "navigationBarTitleText": "计算机导论作业",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar":{
+    "color": "#bfc1ab",
+    "selectedColor": "#13b11c",
+    "backgroundColor": "#1f1f4f",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "image/icon_component.jpg",
+        "selectedIconPath": "image/icon_component_HL.jpg",
+        "text": "个人中心"
+      }
+      ,
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "image/icon_API.jpg",
+        "selectedIconPath": "image/icon_API_HL.jpg",
+        "text": "资源"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+<!--pages/new1/new1.wxml-->
+<text>......</text>
+<view>
+    <image class ='pic' mode='widthFix' src='../../image/pic2.jpg'></image>
+</view>
+ 

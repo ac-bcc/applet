@@ -1,0 +1,42 @@
+<!--index.wxml-->
+<view class="root">
+  <view>
+    <image class ='background' mode='scaleToFill' src='../../image/background.jpg'></image>
+</view>
+<view>
+    <image class ='pic1' mode='widthFix' src='../../image/pic1.jpg'></image>
+</view>
+
+  
+  <view class="container">
+  <view class="usermenu">
+    <view class="space">
+    <text class="space-motto"> 
+    
+
+
+
+    
+      @2022
+    </text>
+  </view> 
+  
+    <text>\n</text>
+    <button bindtap="btna" size="default" type="default">《==计算机学科各课程关系图==》</button>
+    <text>\n\n</text>
+    <button bindtap="btnb" size="default" type="default">《=计算机学科各课程的参考资料=》</button>
+    <text>\n\n</text>
+    <button bindtap="btnc" size="default" type="default">《====对计算机专业的认识====》</button>
+    <text>\n\n</text>
+    <button bindtap="btnd" size="default" type="default">《==== 学 业 规 划====》 </button>
+  </view>
+  
+  
+
+  <view class="usermotto">
+    <text class="user-motto">{{motto}}</text>
+  </view>
+
+</view>
+</view>
+

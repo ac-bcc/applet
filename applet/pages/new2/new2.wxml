@@ -1,0 +1,3 @@
+<!--pages/new2/new2.wxml-->
+<text>待完善......</text>
+<web-view src="https://mp.weixin.qq.com/s?__biz=MzkxODMxODUzNg==&mid=2247483661&idx=1&sn=116aa36e312f7600c8e18b1772cac6fc&chksm=c1b27daaf6c5f4bcf34acafa51b5f1aa519f242d9f043f04530a0c4013fab3096bd65ed4c474&token=297888407&lang=zh_CN#rd">click</web-view>

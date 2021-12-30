@@ -1,0 +1,8 @@
+<!--pages/new4/new4.wxml-->
+<text>关于学业的规划......</text>
+<view class="txt1">{{txt1}}</view>
+    <view class="txt2">{{txt2}}</view>
+    <view class="txt3">{{txt3}}</view>
+    <view class="txt4">{{txt4}}</view>
+    <view class="txt5">{{txt5}}</view>
+    <view class="txt6">{{txt6}}</view>

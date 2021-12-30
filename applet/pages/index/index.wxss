@@ -1,0 +1,55 @@
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #aaa;
+}
+
+.userinfo-avatar {
+  overflow: hidden;
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.usermotto {
+  margin-top: 200px;
+}
+.root {
+  padding:0px,0px,0px,0px;
+  border:green solid;
+  margin: 20px,20px,0px,20px;
+
+  z-index:-1;
+}
+
+page{
+  background:#99ffcf;
+}
+
+.cover-box{
+  position:fixed;
+  background-size: 100% 100%;
+  height:100%;
+  width:100%;
+  background-image: url("https://i.ibb.co/KNPTnGH/background.jpg");
+}
+.background{
+  height:100%;
+  width:750rpx;
+  position: absolute;
+  top:400rpx;left:0rpx;
+  z-index: -1;
+}
+.pic1{
+  width:680rpx;
+  position: absolute;
+  top:200rpx;left:40rpx;
+  border-radius: 100rpx;
+}
+.container{
+  position: absolute;
+  top:220rpx;left:75rpx;
+}

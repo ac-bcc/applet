@@ -1,0 +1,114 @@
+/* pages/new3/new3.wxss */
+.content{
+    background-color: rgba(229, 231, 225, 0.938);
+}
+.txt1{
+    font-size: 37rpx;
+    text-indent: 3rem;
+    line-height: 1.5rem;
+    letter-spacing:1rpx;
+    word-spacing:4rpx;
+    text-align: left;
+    overflow: hidden;
+}
+.txt2{
+    font-size: 37rpx;
+    text-indent: 3rem;
+    line-height: 1.5rem;
+    letter-spacing:1rpx;
+    word-spacing:4rpx;
+    text-align: left;
+    overflow: hidden;
+}
+.txt3{
+    font-size: 37rpx;
+    text-indent: 3rem;
+    line-height: 1.5rem;
+    letter-spacing:1rpx;
+    word-spacing:4rpx;
+    text-align: left;
+    overflow: hidden;
+}
+.txt4{
+    font-size: 37rpx;
+    text-indent: 3rem;
+    line-height: 1.5rem;
+    letter-spacing:1rpx;
+    word-spacing:4rpx;
+    text-align: left;
+    overflow: hidden;
+}
+.txt5{
+    font-size: 37rpx;
+    text-indent: 3rem;
+    line-height: 1.5rem;
+    letter-spacing:1rpx;
+    word-spacing:4rpx;
+    text-align: left;
+    overflow: hidden;
+}
+.txt6{
+    font-size: 37rpx;
+    text-indent: 3rem;
+    line-height: 1.5rem;
+    letter-spacing:1rpx;
+    word-spacing:4rpx;
+    text-align: left;
+    overflow: hidden;
+}
+.txt7{
+    font-size: 37rpx;
+    text-indent: 3rem;
+    line-height: 1.5rem;
+    letter-spacing:1rpx;
+    word-spacing:4rpx;
+    text-align: left;
+    overflow: hidden;
+}
+.txt8{
+    font-size: 37rpx;
+    text-indent: 3rem;
+    line-height: 1.5rem;
+    letter-spacing:1rpx;
+    word-spacing:4rpx;
+    text-align: left;
+    overflow: hidden;
+}
+.txt9{
+    font-size: 37rpx;
+    text-indent: 3rem;
+    line-height: 1.5rem;
+    letter-spacing:1rpx;
+    word-spacing:4rpx;
+    text-align: left;
+    overflow: hidden;
+}
+.txt10{
+    font-size: 37rpx;
+    text-indent: 3rem;
+    line-height: 1.5rem;
+    letter-spacing:1rpx;
+    word-spacing:4rpx;
+    text-align: left;
+    overflow: hidden;
+}
+.txt11{
+    font-size: 37rpx;
+    text-indent: 3rem;
+    line-height: 1.5rem;
+    letter-spacing:1rpx;
+    word-spacing:4rpx;
+    text-align: left;
+    overflow: hidden;
+}
+.txt12{
+    font-size: 40rpx;
+    text-indent: 2rem;
+    line-height: 1.5rem;
+    letter-spacing:1rpx;
+    word-spacing:4rpx;
+    text-align: left;
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bold;
+}

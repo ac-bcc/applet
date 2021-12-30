@@ -1,0 +1,21 @@
+<!--pages/new3/new3.wxml-->
+
+<view class="content">
+    <view class="txt1">{{txt1}}</view>
+    <view class="txt2">{{txt2}}</view>
+    <view class="txt3">{{txt3}}</view>
+    <view class="txt4">{{txt4}}</view>
+    <view class="txt5">{{txt5}}</view>
+    <view class="txt6">{{txt6}}</view>
+    <view class="txt7">{{txt7}}</view>
+    <view class="txt8">{{txt8}}</view>
+    <view class="txt9">{{txt9}}</view>
+    <view class="txt10">{{txt10}}</view>
+    <view class="txt11">{{txt11}}\n</view>
+    <view class="txt12">{{txt12}}</view>
+    
+
+
+
+
+</view>

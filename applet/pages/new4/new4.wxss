@@ -1,0 +1,55 @@
+/* pages/new4/new4.wxss */
+.txt1{
+    font-size: 37rpx;
+    text-indent: 2rem;
+    line-height: 1.5rem;
+    letter-spacing:1rpx;
+    word-spacing:4rpx;
+    text-align: left;
+    overflow: hidden;
+}
+.txt2{
+    font-size: 37rpx;
+    text-indent: 2rem;
+    line-height: 1.5rem;
+    letter-spacing:1rpx;
+    word-spacing:4rpx;
+    text-align: left;
+    overflow: hidden;
+}
+.txt3{
+    font-size: 37rpx;
+    text-indent: 2rem;
+    line-height: 1.5rem;
+    letter-spacing:1rpx;
+    word-spacing:4rpx;
+    text-align: left;
+    overflow: hidden;
+}
+.txt4{
+    font-size: 37rpx;
+    text-indent: 2rem;
+    line-height: 1.5rem;
+    letter-spacing:1rpx;
+    word-spacing:4rpx;
+    text-align: left;
+    overflow: hidden;
+}
+.txt5{
+    font-size: 37rpx;
+    text-indent: 2rem;
+    line-height: 1.5rem;
+    letter-spacing:1rpx;
+    word-spacing:4rpx;
+    text-align: left;
+    overflow: hidden;
+}
+.txt6{
+    font-size: 37rpx;
+    text-indent: 2rem;
+    line-height: 1.5rem;
+    letter-spacing:1rpx;
+    word-spacing:4rpx;
+    text-align: left;
+    overflow: hidden;
+}
